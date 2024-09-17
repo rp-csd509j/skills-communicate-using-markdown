@@ -5,3 +5,7 @@
 ``` nix
 # an example codeblock
 ```
+
+- [ ] A task
+- [ ] Another task..
+- [x] A complete task!
